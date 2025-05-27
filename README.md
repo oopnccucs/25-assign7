@@ -13,19 +13,19 @@ In this assignment, you are required to:
 1. Design a game with flowchart that demonstrates the game logic clealy.
 2. Draw a UML Class Diagram for the project.
 3. Complete tne project
+4. Write a Readme.md documentation.
 
 ## Scoring Criteria
 |Description|Score|
 |-----|-----|
-|Submit the assignment|20|
-|Able to compile|20|
-|RPS Objects perform assimilation correctly|20|
-|Handling key input to control Rock|10|
-|Player can switch between different Rocks|10|
-|Game break and winner determination|10|
-|More features(please create a "Readme.md" to show your additional designs)|10|
+|Appropriate Flowchart|10|
+|UML Class Diagram|20|
+|Able to run the program|20|
+|Follow the OOP principles(encapsulation, polymorphism, etc.)|20|
+|Including collision events|10|
+|At least 2 types of GameObjects, 1 Controllable GameObject & |10|
+|Gameplay|20|
 
 ## Reminder
-1. Flowchart has no template limitation. The only requirement for the flowchart is **easy to understand**.
+1. Flowchart has no limitation. The key is to make it **easy to understand**.
 2. In Class Diagram, *Aggregation* and *Composition* are **not** required. You can use only **Association** and **Dependency**.
-3. 
