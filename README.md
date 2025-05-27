@@ -24,3 +24,8 @@ In this assignment, you are required to:
 |Player can switch between different Rocks|10|
 |Game break and winner determination|10|
 |More features(please create a "Readme.md" to show your additional designs)|10|
+
+## Reminder
+1. Flowchart has no template limitation. The only requirement for the flowchart is **easy to understand**.
+2. In Class Diagram, *Aggregation* and *Composition* are **not** required. You can use only **Association** and **Dependency**.
+3. 
