@@ -5,7 +5,7 @@
 
 # 2D Console Game (Part3)
 
-Obejctive: **Create your own 2D game!**
+Obejctive: Based on Assignment 5 and Assignment 6, **Create your own 2D game!**
 
 ## Assignment Tasks
 
