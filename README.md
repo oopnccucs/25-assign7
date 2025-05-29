@@ -29,3 +29,4 @@ In this assignment, you are required to:
 ## Reminder
 1. Flowchart has no limitation. The key is to make it **easy to understand**.
 2. In Class Diagram, *Aggregation* and *Composition* are **not** required. You can use only **Association** and **Dependency**.
+3. If you have no idea for the topic, you can make a **"Snake Game"** or **Maze**.
