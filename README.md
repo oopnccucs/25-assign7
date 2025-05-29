@@ -23,7 +23,7 @@ In this assignment, you are required to:
 |Able to run the program|20|
 |Follow the OOP principles(encapsulation, polymorphism, etc.)|20|
 |Including collision events|10|
-|At least 2 types of GameObjects, including 1 Controllable GameObject 10|
+|At least 2 types of GameObjects, including 1 Controllable GameObject| 10|
 |Gameplay|20|
 
 ## Reminder
